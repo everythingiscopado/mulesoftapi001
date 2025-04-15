@@ -1,0 +1,72 @@
+{
+  "basicConstraints": 89,
+  "criticalExtensionOIDs": [
+    "nibh",
+    "erat",
+    "nisi"
+  ],
+  "extendedKeyUsage": [
+    "consectetur",
+    "adipiscing"
+  ],
+  "extensions": [
+    {
+      "criticality": true,
+      "oid": "arcu"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Alda",
+      "type": 89
+    }
+  ],
+  "issuerDN": {
+    "commonName": "ac",
+    "name": "Allison"
+  },
+  "issuerUniqueID": [
+    false,
+    true
+  ],
+  "issuerX500Principal": {
+    "name": "Damon"
+  },
+  "keyUsage": [
+    true,
+    true
+  ],
+  "name": "Cleveland",
+  "nonCriticalExtensionOIDs": [
+    "ac",
+    "semper",
+    "adipiscing"
+  ],
+  "publicKey": {
+    "algorithm": "pretium",
+    "modulus": 62,
+    "params": 54,
+    "publicKey": "Fusce"
+  },
+  "serialNumber": 39,
+  "serialNumberObject": {
+    "serialNumber": 96
+  },
+  "sigAlgName": "libero",
+  "sigAlgOID": "elit",
+  "subjectAlternativeNames": [
+    {
+      "name": "Connie",
+      "type": 23
+    }
+  ],
+  "subjectDN": {
+    "commonName": "lectus",
+    "name": "Almeta"
+  },
+  "subjectX500Principal": {
+    "name": "Alysa"
+  },
+  "type": "Pellentesque",
+  "version": 17
+}
