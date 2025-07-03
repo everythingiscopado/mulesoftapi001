@@ -12,7 +12,7 @@
         <http:headers>#[vars.outboundHeaders default {}]</http:headers>
       </http:error-response>
     </http:listener>
-    <set-payload value='Hello Copado!' doc:name="Set payload" doc:id="qhpkzp" />
+    <set-payload value='Hello Copado!!!' doc:name="Set payload" doc:id="qhpkzp" />
     <logger doc:name="Logger" doc:id="tpades" message="#[attributes.requestPath]"/>
   </flow>
 </mule>
