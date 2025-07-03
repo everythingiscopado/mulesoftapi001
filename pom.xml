@@ -99,7 +99,7 @@
             <id>anypoint-exchange-v3</id>
             <name>Anypoint Exchange</name>
             <!-- Can update below with properties i.e. https://${domain}/api/v2/organizations/${groupid}/maven -->
-            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/bb224955-86f1-423a-986b-015e44c280d8/maven</url>
+            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/8be58154-f905-4308-bee8-2e8e16ec207e/maven</url>
             <layout>default</layout>
         </repository>
     </distributionManagement>
