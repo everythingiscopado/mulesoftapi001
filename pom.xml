@@ -117,5 +117,10 @@
             <version>1.2.2</version>
             <classifier>mule-plugin</classifier>
         </dependency>
+        <dependency>
+        <groupId>org.mule.modules</groupId>
+        <artifactId>mule-module-metoo</artifactId>
+        <version>1.0.0</version>
+        </dependency>
     </dependencies>    
 </project>
