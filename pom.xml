@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>8be58154-f905-4308-bee8-2e8e16ec207e</groupId>
+    <groupId>afa211ba-011e-4393-aba1-1a09cd764869</groupId>
     <artifactId>mulesoftapi001</artifactId>
     <version>1.0.1</version>
     <packaging>mule-application</packaging>
@@ -39,7 +39,7 @@
                         <applicationName>${appname}</applicationName>
                         <replicas>1</replicas>
                         <vCores>0.1</vCores>
-                        <businessGroupId>8be58154-f905-4308-bee8-2e8e16ec207e</businessGroupId>
+                        <businessGroupId>afa211ba-011e-4393-aba1-1a09cd764869</businessGroupId>
                         <properties>
                             <key>value</key>
                         </properties>
@@ -99,7 +99,7 @@
             <id>anypoint-exchange-v3</id>
             <name>Anypoint Exchange</name>
             <!-- Can update below with properties i.e. https://${domain}/api/v2/organizations/${groupid}/maven -->
-            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/8be58154-f905-4308-bee8-2e8e16ec207e/maven</url>
+            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/afa211ba-011e-4393-aba1-1a09cd764869/maven</url>
             <layout>default</layout>
         </repository>
     </distributionManagement>
