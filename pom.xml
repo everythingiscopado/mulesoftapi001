@@ -3,16 +3,15 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>afa211ba-011e-4393-aba1-1a09cd764869</groupId>
     <artifactId>mulesoftapi001</artifactId>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
     <packaging>mule-application</packaging>
     <name>mulesoftapi001</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <mule.maven.plugin.version>4.0.0</mule.maven.plugin.version>
-        
         <!-- Added for Copado Plugin -->
         <app.runtime>4.6.14:3</app.runtime>
+        <mule.maven.plugin.version>4.5.2</mule.maven.plugin.version>
     </properties>
     <build>
         <plugins>
