@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>1afe825d-49f4-4af7-ba2f-0c15539d28b3</groupId>
+    <groupId>9ed82480-3314-4312-a05a-bb4250c11cfa</groupId>
     <artifactId>mulesoftapi001</artifactId>
     <version>1.0.8</version>
     <packaging>mule-application</packaging>
@@ -11,7 +11,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <!-- Added for Copado Plugin -->
         <app.runtime>4.6.14:3</app.runtime>
-        <mule.maven.plugin.version>4.5.2</mule.maven.plugin.version>
+        <mule.maven.plugin.version>4.7.0</mule.maven.plugin.version>
     </properties>
     <build>
         <plugins>
@@ -38,7 +38,7 @@
                         <applicationName>${appname}</applicationName>
                         <replicas>1</replicas>
                         <vCores>0.1</vCores>
-                        <businessGroupId>1afe825d-49f4-4af7-ba2f-0c15539d28b3</businessGroupId>
+                        <businessGroupId>9ed82480-3314-4312-a05a-bb4250c11cfa</businessGroupId>
                         <properties>
                             <key>value</key>
                         </properties>
@@ -98,7 +98,7 @@
             <id>anypoint-exchange-v3</id>
             <name>Anypoint Exchange</name>
             <!-- Can update below with properties i.e. https://${domain}/api/v2/organizations/${groupid}/maven -->
-            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/1afe825d-49f4-4af7-ba2f-0c15539d28b3/maven</url>
+            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/9ed82480-3314-4312-a05a-bb4250c11cfa/maven</url>
             <layout>default</layout>
         </repository>
     </distributionManagement>
